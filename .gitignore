@@ -30,8 +30,7 @@
 *.exe
 *.out
 *.app
-1553
-mil1553_tests
+
 
 # CMake build directories and artifacts
 CMakeCache.txt
